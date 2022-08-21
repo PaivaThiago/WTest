@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WTest</string>
+    <string name="search_hint">Postal Code or Local Name</string>
+    <string name="search_no_results">No results found!</string>
+</resources>
